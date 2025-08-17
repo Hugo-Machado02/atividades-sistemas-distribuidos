@@ -1,4 +1,4 @@
-# 1º Projeto - Aula 2 🌟
+#🚀 1º Projeto - Aula 2 🚀
 
 ## 📝Descrição:
 _A inserir._
@@ -23,7 +23,7 @@ _A inserir._
 
 
 ## 💻Tecnologias Utilizadas:
-_A inserir._
+[![My Skills](https://skillicons.dev/icons?i=java,vscode,git,github)](https://skillicons.dev)
 
 
 ## 📜Licença de Uso:
