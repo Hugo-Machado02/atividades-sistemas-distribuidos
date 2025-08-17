@@ -1,4 +1,4 @@
-##🚀 1º Projeto - Aula 2 🚀
+## 🚀 1º Projeto - Aula 2 🚀
 
 ## 📝Descrição:
 _A inserir._
