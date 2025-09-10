@@ -3,4 +3,6 @@ Projetos referentes a matéria de Sistemas Distribuidos do Curso de Sistemas Par
 
 
 #  📚 Atividades 📚
-- 1º Projeto - Aula 2: [Clique Aqui](https://github.com/Hugo-Machado02/atividades-sistemas-distribuidos/tree/1º-Projeto-Aula-2).
+- 1º - Projeto - Aula 2: [Clique Aqui](https://github.com/Hugo-Machado02/atividades-sistemas-distribuidos/tree/1º-Projeto-Aula-2).
+- 2º - Atividade - Aula 4: [Clique Aqui](https://github.com/Hugo-Machado02/atividades-sistemas-distribuidos/tree/1º-Projeto-Aula-2).
+- 2º - Atividade - Aula 4: [Clique Aqui](https://github.com/Hugo-Machado02/atividades-sistemas-distribuidos/tree/1º-Projeto-Aula-2).
