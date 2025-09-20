@@ -21,7 +21,7 @@ _A inserir._
 
 
 ## 💻Tecnologias Utilizadas:
-[![My Skills](https://skillicons.dev/icons?i=java,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,vscode,html,css,js,git,github)](https://skillicons.dev)
 
 
 ## 📜Licença de Uso:
