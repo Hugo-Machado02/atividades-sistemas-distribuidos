@@ -9,3 +9,8 @@ Projetos referentes a matéria de Sistemas Distribuidos do Curso de Sistemas Par
 - 4º - Atividade - Aula 6: [Clique Aqui](https://github.com/Hugo-Machado02/atividades-sistemas-distribuidos/tree/4º-Atividade-Aula-6).
 - 5º - Atividade - Aula 9: [Clique Aqui](https://github.com/Hugo-Machado02/SistemasDistribuidos-CalculadoraSimples).
 - 6º - Atividade - Aula 9: [Clique Aqui](https://github.com/Hugo-Machado02/SistemasDistribuidos-CalculadoraIdade).
+- 7º - Atividade - Aula 10: [Clique Aqui](https://github.com/Hugo-Machado02/atividades-sistemas-distribuidos/tree/7º-Atividade-Aula-6).
+- 8º - Atividade - Aula 10: [Clique Aqui](https://github.com/Hugo-Machado02/atividades-sistemas-distribuidos/tree/8º-Atividade-Aula-6).
+- 9º - Atividade - Aula 11: [Clique Aqui](https://github.com/Hugo-Machado02/projeto_sala_aula_sd/tree/v1).
+- 10º - Atividade - Aula 12: [Clique Aqui](https://github.com/Hugo-Machado02/projeto_sala_aula_sd/tree/v2).
+- 11º - Atividade - Aula 13: [Clique Aqui](https://github.com/Hugo-Machado02/projeto_sala_aula_sd/tree/v3).
